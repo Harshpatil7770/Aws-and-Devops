@@ -1,0 +1,9 @@
+1) Ec2 instance creation and connection.
+
+2) Install nginx , httpd 
+
+3) Install java
+
+4) Install tomcat
+
+5) How to integrate jenkins under the tomcat 

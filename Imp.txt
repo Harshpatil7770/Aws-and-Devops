@@ -1,0 +1,37 @@
+1) Link to download java 11
+ ------------------------------------------------------------------------------------------------
+   https://computingforgeeks.com/how-to-install-java-11-openjdk-11-on-rhel-8/
+
+
+    
+2) Linux permission how to read write and execute
+ ------------------------------------------------------------------------------------------------
+   https://www.guru99.com/file-permissions.html
+
+3) IAM 
+ ------------------------------------------------------------------------------------------------
+   https://dev.to/nehasoni__/iam-identities-users-user-groups-and-iam-roles-2fpl
+
+4)  Linux  
+ ------------------------------------------------------------------------------------------------
+nginx and httpd(apache) both these are called webservers 
+
+nginx and httpd(apache) both default port number is 80
+
+Application servers Tomcat ,weblogic and websphere these are called application servers
+
+application default portnumber  (Tomcat) is 8080
+
+yum install nginx
+
+systemctl enable nginx
+
+systemctl start nginx
+
+systemctl status nginx
+
+
+
+
+
+
