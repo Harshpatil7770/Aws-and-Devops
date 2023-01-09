@@ -7,3 +7,15 @@
 4) Install tomcat
 
 5) How to integrate jenkins under the tomcat 
+  
+6) MFA (Microsoft authenicate)
+
+7) IAM (user,group)
+
+8) s3 bucket
+
+9) s3 bucket replication
+
+10) VPC
+
+11) EC2 instance with own vpc

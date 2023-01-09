@@ -39,6 +39,16 @@ https://updates.jenkins.io/download/war/2.385/jenkins.war
 -------------------------------------------------------------------------------------------------
 https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.27/bin/apache-tomcat-10.0.27.zip
 
+7) CIDR 
+-------------------------------------------------------------------------------------------------
+https://erikberg.com/notes/networks.html#:~:text=The%20formula%20to%20calculate%20the,addresses%20available%20for%20host%20assignment
+
+8) Aws vpc interview questions
+-------------------------------------------------------------------------------------------------
+https://www.wisdomjobs.com/e-university/aws-vpc-interview-questions.html
+
+
+
 
 
 
