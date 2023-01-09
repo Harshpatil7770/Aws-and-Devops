@@ -1,0 +1,41 @@
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+                            !!! Shree Swami Samarth !!!  
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+1)S3 Bucket
+---------------------------------------------------------------------------------
+1) S3 Bucket is noting but a simple storage bucket.
+
+2) By default one bucket provide you 5TB space. you can create 100 buckets.
+
+3) There are different types of bucket such as standard, glassior,
+   life cycle or etc.
+
+4) glassior means if you want to store the data and not required often, like
+   suppose in year,two year or may be after some month, will put into glassior
+   bucket , cost is less but we required data it's not immediately available 
+   for you, first you need to raise reqest for data.
+
+5) life cycle s3 bucket means after sometime of you need to specify the days
+     data clear get cleared ,like after 50 days or etc.
+
+6) S3 bucket get accesed from any regions.
+
+
+2) S3 Bucket replication
+--------------------------------------------------------------------------------
+
+1) For S3 bucket replication we required min two buckets, source and destincation
+   bucket.
+
+2) Suppose one bucket is in mumbai region and another one Nvirginia regions.
+   i will put data into mumbai region, same data get replcated Nvirginia region.
+
+
+
+3) How to integrate s3 bucket with jenkins
+-------------------------------------------------------------------------------
