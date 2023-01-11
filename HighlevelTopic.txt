@@ -19,3 +19,11 @@
 10) VPC
 
 11) EC2 instance with own vpc
+
+12) SNS simple notification service
+
+13) Load balancer - CLassic load balancer, Application load balancer
+
+14) RDS
+
+15) Autoscalling

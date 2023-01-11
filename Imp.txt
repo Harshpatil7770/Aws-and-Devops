@@ -45,7 +45,15 @@ https://erikberg.com/notes/networks.html#:~:text=The%20formula%20to%20calculate%
 
 8) Aws vpc interview questions
 -------------------------------------------------------------------------------------------------
-https://www.wisdomjobs.com/e-university/aws-vpc-interview-questions.html
+https://www.wisdomjobs.com/e-university/aws-vpc-interview-questions.ht
+
+
+9) RDS
+-------------------------------------------------------------------------------------------------
+How to install mysql on redhat9 steps.
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/configuring_and_using_database_servers/assembly_using-mysql_configuring-and-using-database-servers
+
+10)  
 
 
 
